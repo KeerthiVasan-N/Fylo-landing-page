@@ -308,6 +308,9 @@ header li{
     display: flex;
     gap: 1rem;
 }
+.itm{
+    gap: 10px;
+}
 @media screen and (min-width:784px) {
 .itm{
     gap:3rem;
