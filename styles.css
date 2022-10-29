@@ -4,7 +4,7 @@
 body{
     font-family: "open Sans",sans-serif;
     font-family: "Raleway",sans-serif;
-    --padd-in:4rem
+    --padd-in:2rem
 }
 footer{
       background-color:hsl(243, 88%, 13%) ;
